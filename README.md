@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<a href="https://github.com/Allonck/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Allonck&count_private=true&show_icons=true&theme=dark&hide_rank=false&rank_icon=github&&include_all_commits=true&custom_title=<Allonck>&show=prs_merged&hide=stars" />
+</a>
+<a href="https://github.com/Allonck/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Allonck&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <!--
 **Allonck/Allonck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
